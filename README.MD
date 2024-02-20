@@ -22,10 +22,3 @@
 <br>
 
 ---
-
-
-### 🏆 Github Stats:
-
-<img alt="Dooze's Github Stats" src="https://github-readme-stats.vercel.app/api?username=donlan&count_private=true&show_icons=true&hide_border=true&theme=buefy" width="500"/>
-
-<img alt="Dooze's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donlan&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
